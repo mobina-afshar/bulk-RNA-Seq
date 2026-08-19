@@ -200,11 +200,6 @@ The analysis was performed using publicly available transcriptomic data.
 
 Raw data are not redistributed in this repository.
 
-## Citation
-
-If you use or adapt the code in this repository, please cite the associated publication:
-
-> Citation will be added following publication.
 
 ## Contact
 
